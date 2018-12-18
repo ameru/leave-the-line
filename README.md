@@ -22,12 +22,7 @@
         - enter polycard # to prepay for food (set accountability for pickup)
     
 ## Tasks
-        * Implement /all_incidents to display a table of all incidents in past 24 hours
-            * Table should allow incidents to be sorted by location, time of occurence, severity
-        * Make frontend responsive 
-        * Prettify and finalize functionality of the frontend 
-        * Create and implement route that displays Tableau visualized data 
-            * Should display data in real time that shows most frequent crime types, locations, and times
+        - see issues
             
 ## Timeline
         - Week 1-2 (December 15-28): get acquainted with softwares and plan out basic web app idea and desgin
