@@ -1,7 +1,7 @@
 # Amy's 1am brain dump
 ## Mission
         - create web app at hackathon (beta)
-            - sample venues: Poly Deli, Campus Market, Red Radish
+            - sample venues for demo purposes: Poly Deli, Campus Market, Red Radish
         - evolve into web extension using the school's API
         - OR develop into mobile app that can be downloaded in the app store (Mac OS only)
         
