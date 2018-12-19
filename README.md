@@ -3,7 +3,7 @@
         - create web app at hackathon (beta)
             - sample venues for demo purposes: Poly Deli, Campus Market, Red Radish
         - evolve into web extension using the school's API
-        - OR develop into mobile app that can be downloaded in the app store (Mac OS only)
+        - OR develop into mobile app that can be downloaded in the app store (iOS only)
         
 ## Stack
         - Angular7 for frontend framework
