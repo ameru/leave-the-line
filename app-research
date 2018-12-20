@@ -1,0 +1,54 @@
+# Shaine's App Research
+
+## Tapingo Functions: 
+- Offers Pickup & Delivery (provides a list of campus housing addresses when you register under a university) 
+- Payment Methods include Credit / Debit Card and Student Card
+- Emails receipts & stores receipts under ‘Order History’
+- Offers A LOT of Promo (example: Free delivery during Finals week, $1 off for first pickup order)
+- Includes a ‘Get Help With’ section that gives answers to the difficulties one may experience while using the app (if the user’s issue does not fall within anything listed, they could ‘Report an Issue’)
+
+## Grubhub Functions:
+- Offers Delivery only
+- Payment Methods include Debit / Credit Card and Apple Pay
+- Offers a ‘Filters’ tab that sorts the restaurants by delivery time, rating, and price
+- Offers a ‘Browse by Cuisine’ tab that sorts the restaurants in categories (example: Vegetarian, Mexican, Asian)
+- Emails receipts & stores receipts under ‘Order History’ 
+- Offers ‘Order Tracking’ that shows the user when the restaurant has accepted the order, made the order, and sent the order out for delivery
+- Offers A LOT of Promo (example: $7 off first order, 35% off first order)
+- User receives $10 when they refer a friend to the app
+
+
+## Doordash Functions:
+- Offers Pickup & Delivery
+(I believe this is the best looking app out of all of them)
+- Payment Methods include Debit / Credit Card and Apple Pay
+- User can sort restaurants by delivery fee amount, rating, price, and cuisine
+- Emails receipts & stores receipts under ‘Order History’
+- User receives $5 when they invite a friend to the app
+- User has the option to enable SMS & Push Notifications to receive updates on pickup / delivery
+- Offers an ‘App Credit’ wherein you can load your account with money
+
+## UberEats Functions:
+- Offers Delivery
+- Payment Methods include Debit / Credit Card and Apple Pay
+- User can sort restaurants based on popularity, rating, delivery time, price, booking fee, and dietary restrictions
+- Provides a ‘Search’ tab wherein the user can choose based on cuisine
+- Emails receipts & stores receipts under ‘Past Orders’ and ‘Upcoming Orders’
+- User can report issues after the delivery transaction
+- User gets $5 off their order when they refer a friend to the app
+
+## Yelp Functions: 
+- Website & App
+- Offers Delivery
+- Social networking site that lets users post reviews (photos & videos) and rate businesses (1-5 star rating)
+- User can connect with Friends & see their reviews and ratings
+- User can send messages to Friends
+- User can create a ‘Collection’ of businesses (kind of like Pinterest) 
+- Offers a ‘Cash back’ system wherein the user can get up to 10% cash back for checking in at businesses
+- Allows you to make reservations in restaurants 
+
+## Possible functions we could implement:
+- Invite codes (we could offer incentives?) to spread the word about our website
+- Create a ‘Get Help With / FAQ’ section to help people with navigating our website & to lessen emails regarding issues
+- Order Tracking?
+- Order History that stores the user’s past orders and receipts
