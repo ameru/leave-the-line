@@ -1,3 +1,21 @@
+Resources:
+  -Node Basics
+      https://www.youtube.com/watch?v=TlB_eWDSMt4
+      
+  -Express Basics
+      https://www.youtube.com/watch?v=pKd0Rpw7O48
+      
+  -8.5: Saving Data to JSON File with Node.js - Programming with Text
+      https://www.youtube.com/watch?v=6iZiqQZBQJY
+      
+  -8.6: API Front End Client - Programming with Text
+      https://www.youtube.com/watch?v=4zr8j-jeU_M
+      
+  -8.7: "Build Your Own API" Conclusion with HTTP POST - Programming with Text
+      https://www.youtube.com/watch?v=GZ2nwxhQUTU
+
+
+
 List of back-end functions to implement:
   -GET, POST, PUT, and DEL requests by users.
   
