@@ -1,0 +1,30 @@
+List of back-end functions to implement:
+  -GET, POST, PUT, and DEL requests by users.
+  
+  -API implementation of information/data that we require to make this app function. (ex. Cal Poly menu)
+  
+  -Database to store users' information (personal info, favorites, etc), transaction history, and other things
+    that require storage.
+    
+  -Store Yelp-like reviews in database; learn how to store images and comments.
+  
+  -Real Time order status -- queue # (your place in "line" online) xD
+
+
+
+How will we achieve this?:
+  -Node.js is the environment that we program in and Express.js is the framework that will handle all the
+    requests.
+    
+  -Learn how to implement the APIs, and how to use the data that the specific API offers. (ex. implement a
+    user's get request with a response that sends the API data required).
+    
+-(Sullivan exclusive) Learn how to connect the database with the rest of the app and how to receive and
+    send information to be stored or acquired from the database. My idea is to either use FireBase or mongoDB.
+    
+-Learn how to store reviews and then realtime update and upload them onto the app.
+
+-Realtime order status might be a little tricky, will require someone to realtime update the queue by
+    putting orders being made to the "in-process" queue and deleting it from the "ordered" queue. Then
+    once the "in-process" is complete move it to the "ready" queue. All of this with a clock or timer of some
+    sort maybe.
