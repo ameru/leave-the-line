@@ -1,4 +1,4 @@
-# Amy's 1am brain dump
+# Leave the Line Documentation (this project is left unfinished because our school adopted Tapingo, which conflicts with the interest of this app)
 ## Mission
         - create web app at hackathon (beta)
             - sample venues for demo purposes: Poly Deli, Campus Market, Red Radish
